@@ -50,7 +50,7 @@ export default class Header extends Component {
             <div className="description-box">
               <h4>Intelligent MediBuddy</h4>
               <p>Created a JAVA Swing application in NetBeans primarily to manage the medical drive in a school.</p>
-              <span className="categories"><i className="fa fa-tag" />Branding</span>
+              <span className="categories"><i className="fa fa-tag" />Java Project</span>
             </div>
             <div className="link-box">
               <a href="https://github.com/AkashSinha95/Projects/tree/master/Application%20Engineering%20Development%20(Java)">Details</a>
@@ -62,7 +62,7 @@ export default class Header extends Component {
             <div className="description-box">
               <h4>Expense Tracker</h4>
               <p>Developed a MEAN Stack web application for tracking income and expenses.</p>
-              <span className="categories"><i className="fa fa-tag" />Branding</span>
+              <span className="categories"><i className="fa fa-tag" />Web Design Project</span>
             </div>
             <div className="link-box">
               <a href="https://github.com/AkashSinha95/Projects/tree/master/Web%20Design">Details</a>
