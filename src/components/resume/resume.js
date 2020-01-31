@@ -74,11 +74,11 @@ export default  class Resume extends Component {
                
                <b>Programming Languages:</b> &nbsp;&nbsp;Java, Python, SQL <br />
                <b>Web Technologies: </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-               Node.js, HTML5, SCSS, SASS, Angular, React, JavaScript, TypeScript, Express<br />
+               Angular, React, JavaScript, JSX, Spring MVC, Hibernate, Node.js, HTML5, SCSS, Swing, Servlets<br />
                <b>Version Control: </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                GitHub, Bitbucket<br />
                <b>Software Tools: </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-               Visual Studio Code, IntelliJ, NetBeans, Tableau, Eclipse<br />
+               Visual Studio Code, IntelliJ, Apache Tomcat, Eclipse, Anaconda, NetBeans, Tableau, Postman<br />
                <b>Database: </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                MongoDB, SAP HANA, Oracle, MySQL<br />
                
