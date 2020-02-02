@@ -71,17 +71,18 @@ export default  class Resume extends Component {
 
                <p>
                <b>{resumeData.skillsDescription}</b><br />
-               
-               <b>Programming Languages:</b> &nbsp;&nbsp;Java, Python, SQL <br />
-               <b>Web Technologies: </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               <span className = " display">
+               <b>Programming Languages:</b>
+               Java, Python, SQL <br />
+               <b>Web Technologies: </b> 
                Angular, React, JavaScript, JSX, Spring MVC, Hibernate, Node.js, HTML5, SCSS, Swing, Servlets<br />
-               <b>Version Control: </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               <b>Version Control: </b> 
                GitHub, Bitbucket<br />
-               <b>Software Tools: </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               <b>Software Tools: </b> 
                Visual Studio Code, IntelliJ, Apache Tomcat, Eclipse, Anaconda, NetBeans, Tableau, Postman<br />
-               <b>Database: </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               <b>Database: </b> 
                MongoDB, SAP HANA, Oracle, MySQL<br />
-               
+               </span>
                </p>
 
    				<div className="bars">

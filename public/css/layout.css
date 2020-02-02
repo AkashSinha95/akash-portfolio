@@ -52,7 +52,7 @@ header .banner {
    vertical-align: bottom;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -264,6 +264,10 @@ ul#nav li.current a { color: #F06000; }
 
 #resume .header-col { padding-top: 0px; }
 #resume .main-col { padding-right: 0%; }
+#resume .display { display: grid !important;
+   grid-template-columns: auto auto !important;
+   grid-column-gap: 10px;
+   }
 
 .education, .work {
    margin-bottom: 48px;
