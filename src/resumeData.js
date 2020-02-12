@@ -37,7 +37,7 @@ let resumeData = {
   "work":[
     {
       "CompanyName":"Reliance Industries Limited",
-      "specialization":"Data Analyst",
+      "specialization":"BI Developer",
       "MonthOfLeaving":"July 2017 - August 2019",
     }
   ],
